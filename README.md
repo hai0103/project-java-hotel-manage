@@ -1,1 +1,1 @@
-# project-java-hotel-manage
+# hotelManage-java
